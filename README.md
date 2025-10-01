@@ -1,4 +1,4 @@
-# 🖼️ Face Recognition Based on PCA
+# 👱🏻‍♂️👩🏼‍🦳👱🏽👨🏾‍🦳 Face Recognition Based on PCA
 
 This project implements the **Eigenfaces** method for face recognition using **Principal Component Analysis (PCA)**.  
 It demonstrates dimensionality reduction, face reconstruction, and identification by comparing projected features.
